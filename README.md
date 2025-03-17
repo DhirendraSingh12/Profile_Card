@@ -27,8 +27,9 @@ A modern **Glassmorphic Profile Card** designed using **HTML & CSS**. This profi
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/profile-card.git
+git clone https://github.com/DhirendraSingh12/Profile_Card.git
 cd profile-card
 
-### 2️⃣ Open the Project
+
+2️⃣ Open the Project
 Simply open the index.html file in your browser.
