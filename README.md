@@ -32,7 +32,7 @@ A modern **Glassmorphic Profile Card** designed using **HTML & CSS**. This profi
 1. **Clone the Repository**
    ```sh
    git clone https://github.com/DhirendraSingh12/Profile_Card.git
-   cd profile-card
+   cd Profile_Card
 
 2. **Run the project**
 
