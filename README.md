@@ -1,8 +1,12 @@
-# Profile_Card
+# 🚀 Responsive Glassmorphic Profile Card
 
 A modern **Glassmorphic Profile Card** designed using **HTML & CSS**. This profile card is fully **responsive**, featuring an elegant **glass effect**, smooth hover animations, and a **professional design**.
 
-![Profile Card Preview]([https://your-image-url.com](https://github.com/DhirendraSingh12/Profile_Card/issues/1)) 
+---
+
+## 🎨 UI Preview
+
+![Image](https://github.com/user-attachments/assets/003e747c-c2a1-4c00-a0ce-52279bad05fb)
 
 ---
 
@@ -23,13 +27,13 @@ A modern **Glassmorphic Profile Card** designed using **HTML & CSS**. This profi
 
 ---
 
-## 📌 Getting Started
+## 🛠️ How to Use
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/DhirendraSingh12/Profile_Card.git
-cd profile-card
+1. **Clone the Repository**
+   ```sh
+   git clone https://github.com/DhirendraSingh12/Profile_Card.git
+   cd profile-card
 
+2. **Run the project**
 
-2️⃣ Open the Project
-Simply open the index.html file in your browser.
+    Open index.html in your browser.
